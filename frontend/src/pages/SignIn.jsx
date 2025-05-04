@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom
-import axios from "axios";
 
 const SignIn = () => {
   const navigate = useNavigate();
@@ -13,7 +12,7 @@ const SignIn = () => {
     e.preventDefault();
   
     try {
-      const res = await axios.post(`${import.meta.env.VITE_BACKEND_URL}/api/auth/signin`, {
+      const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/auth/signin`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
