@@ -11,7 +11,6 @@ Welcome to the **Hotel Booking Website** — a full-stack MERN application where
 - 🔐 User Registration & Login (with JWT)
 - 🏨 Search & Filter Hotels
 - 📅 Real-Time Booking with Date Selection
-- 💳 Payment Integration (optional Stripe or Razorpay)
 - 📞 Contact Form (Web3Forms Integrated)
 - 📄 About & Info Pages
 - 📱 Fully Responsive (Mobile + Desktop)
