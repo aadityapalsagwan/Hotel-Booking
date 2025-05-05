@@ -42,7 +42,7 @@ Welcome to the **Hotel Booking Website** — a full-stack MERN application where
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live On Internet
 
 🌐 [Visit Live Site](https://hotelbooking-5qwv.onrender.com/)
 
@@ -51,7 +51,7 @@ Welcome to the **Hotel Booking Website** — a full-stack MERN application where
 ## 🔧 Run Locally
 
 ```bash
-git clone https://github.com/your-username/hotel-booking.git
+git clone https://github.com/aadityapalsagwan/hotel-booking.git
 cd hotel-booking
 npm install
 npm run dev
