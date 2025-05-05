@@ -38,7 +38,7 @@ Welcome to the **Hotel Booking Website** — a full-stack MERN application where
 
 | Home Page | Booking Page |
 |-----------|--------------|
-| ![Home](https://hotelbooking-5qwv.onrender.com/home) | ![Booking](https://hotelbooking-5qwv.onrender.com/booking) |
+| ![Home](https://images.unsplash.com/photo-1566073771259-6a8506099945) | ![Booking](https://images.unsplash.com/photo-1600585154526-990dced4db0d) |
 
 ---
 
