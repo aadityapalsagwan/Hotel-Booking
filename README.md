@@ -38,13 +38,13 @@ Welcome to the **Hotel Booking Website** — a full-stack MERN application where
 
 | Home Page | Booking Page |
 |-----------|--------------|
-| ![Home](https://via.placeholder.com/400x200) | ![Booking](https://via.placeholder.com/400x200) |
+| ![Home](https://images.unsplash.com/photo-1566073771259-6a8506099945) | ![Booking](https://images.unsplash.com/photo-1600585154526-990dced4db0d) |
 
 ---
 
 ## 🔗 Live Demo
 
-🌐 [Visit Live Site](https://your-deployment-url.com)
+🌐 [Visit Live Site](https://hotelbooking-5qwv.onrender.com/)
 
 ---
 
